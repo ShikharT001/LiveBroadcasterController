@@ -1,5 +1,8 @@
 # Live Sports Broadcast Controller & OBS Studio Integration
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FShikharT001%2FLiveBroadcasterController)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/ShikharT001/LiveBroadcasterController)
+
 A professional, full-featured **Next.js Broadcast Controller** built for live sports broadcasts (initial focus: **Volleyball**). It empowers broadcast operators to manage live match scores, trigger automated on-screen broadcast graphics (scoreboards, player spotlights, sponsor banners, set summaries, victory celebrations), switch OBS scenes, and manage YouTube Live streaming directly from a centralized web-based dashboard.
 
 ```
